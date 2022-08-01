@@ -1,0 +1,12 @@
+While creating a Binary Search Tree, the elements of the given array are added to the tree sequentially. 
+The first element 7 becomes the root node.
+Numbers greater than 7 are added to the right of the node, and smaller numbers are added to the left of the node.
+5 is located to the left of 7.
+1 is located to the left of 5.
+8 is located to the right of 7.
+3 is located to the right of 1.
+Since 6 is less than 7, it is on the left. It is located to the right of 5 because it is greater than 5.
+The number 0 is to the left of 1 because it is the smallest number in the list.
+Since the number 9 is greater than 7, it is located on the right. It is located to the right of 8.
+4 is to the left because it is less than 7 and 5, and to the right of 3 because it is greater than 1 and 3.
+2 is to the left because it is less than 5 and 7, and to the left of 3 because it is less than 3.
